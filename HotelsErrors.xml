@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E. 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.9">
+        <Name>Hilton Phoenix Tapatio Cliffs Resort</Name>
+        <Address NearstAirport="Sky Harbor">
+            <Number>11111</Number>
+            <Street>N. 7th St</Street>
+            <City>Phoneix</City>
+            <State>AZ</State>
+            <Zip>85020</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>DoubleTree by Hilton New York JFK Airport</Name>
+        <Phone>718-322-2300</Phone>
+        <Address NearstAirport="JFK">
+            <Number>135-30</Number>
+            <Street>140th St</Street>
+            <City>Jamaica</City>
+            <State>NY</State>
+            <Zip>11436</Zip>
+    </Hotel>
+
+    <Hotel Rating="4.1">
+        <Name>Courtyard by Marriott New York JFK Airport</Name>
+        <Name>Courtyard by Marriott New York JFK Airport Error</Name>
+        <Phone>718-848-2121</Phone>
+        <Address NearstAirport="JFK">
+            <Number>145-11</Number>
+            <Street>N. Conduit Ave</Street>
+            <City>Jamaica</City>
+            <State>NY</State>
+            <Zip>11436</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Hyatt Place Atlanta Airport-South</Name>
+        <Phone>770-994-2997</Phone>
+        <Address NearstAirport="ATL">
+            <Number>1899</Number>
+            <Street>Sullivan Rd</Street>
+            <City>College Park</City>
+            <State>GA</State>
+            <Zip>30337</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Best Western Plus Fairburn Atlanta Southwest</Name>
+        <Phone>678-782-4700</Phone>
+        <Address NearstAirport="ATL">
+            <Number>1005</Number>
+            <Street>Oakley Industrial Blvd</Street>
+            <City>Fairburn</City>
+            <State>GA</State>
+            <Zip>30213</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Hilton Los Angeles Airport</Name>
+        <Phone>310-410-4000</Phone>
+        <Address NearstAirport="LAX">
+            <Number>5711</Number>
+            <Street>W Century Blvd</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90045</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Sonesta Los Angeles Airport LAX</Name>
+        <Phone>310-642-7500</Phone>
+        <Address NearstAirport="LAX">
+            <Number>5985</Number>
+            <Street>W Century Blvd</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90045</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Embassy Suites by Hilton Miami International Airport</Name>
+        <Phone>305-634-5000</Phone>
+        <Address NearstAirport="MIA">
+            <Number>3974</Number>
+            <Street>NW South River Drive</Street>
+            <City>Miami</City>
+            <State>FL</State>
+            <Zip>33142</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Wyndham Garden Miami International Airport</Name>
+        <Phone>786-671-4268</Phone>
+        <Address NearstAirport="MIA">
+            <Number>4909</Number>
+            <Street>NW 36th Street</Street>
+            <City>Miami Springs</City>
+            <State>FL</State>
+            <Zip>33166</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Hampton Inn Miami - Airport East, FL</Name>
+        <Phone>786-801-3136</Phone>
+        <Address NearstAirport="MIA">
+            <Number>3449</Number>
+            <Street>NW 42nd Avenue</Street>
+            <City>Miami</City>
+            <State>FL</State>
+            <Zip>33142</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
